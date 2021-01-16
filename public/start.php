@@ -1,0 +1,1 @@
+php think workerman start --d

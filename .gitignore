@@ -1,0 +1,11 @@
+/.idea
+/.vscode
+*.log
+/.env
+**/*.pid
+runtime/
+install.lock
+public/uploads
+crmeb/services/upload/storage/Jinshan.php
+queue.txt
+update_20190722.zip
